@@ -1,16 +1,31 @@
-### Hi there 👋
+ ## Hi I'm Jay 👋
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
 
-<!--
-**JaySant/JaySant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JaySant&show_icons=false&theme=nord"/>
+  
+### Whoami
+- I live in :brazil:
+- Web Developer and Cybersecurity Student 💻
+- Tryber <img src="https://avatars.githubusercontent.com/u/51808343?s=280&v=4" width="10">
+- CTF Player 😎
 
-Here are some ideas to get you started:
+### My Social Media
+<a href="https://www.linkedin.com/in/jaiana-s/">
+<img align="center" alt="linkedin jay"  width="4%" height="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"/>
+ </a>
+<a href="https://www.instagram.com/jaysanty/">
+<img align="center" alt="Instagram jay"  width="5%" height="5%" src="https://cdn.icon-icons.com/icons2/2716/PNG/512/instagram_logo_icon_173070.png"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
