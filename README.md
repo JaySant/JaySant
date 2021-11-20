@@ -9,9 +9,9 @@
   
 ### Whoami
 - I live in :brazil:
-- Web Developer and Cybersecurity Student 💻
-- Tryber <img src="https://avatars.githubusercontent.com/u/51808343?s=280&v=4" width="10">
+- Tryber <img src="https://avatars.githubusercontent.com/u/51808343?s=280&v=4" width="12">
 - CTF Player 😎
+- Web Developer and Cybersecurity Student 💻
 
 ### My Social Media
 <a href="https://www.linkedin.com/in/jaiana-s/">
