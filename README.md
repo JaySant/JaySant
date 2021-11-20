@@ -5,7 +5,7 @@
                 ||----w |
                 ||     ||
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JaySant&show_icons=false&theme=nord"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JaySant&show_icons=true&theme=nord"/>
   
 ### Whoami
 - I live in :brazil:
