@@ -26,10 +26,11 @@
 <img align="center" alt="Instagram jay"  width="5%" height="5%" src="https://cdn.icon-icons.com/icons2/2716/PNG/512/instagram_logo_icon_173070.png"/>
 </a>
 
+jaysant15@gmail.com
+
 ##
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=JaySant&show_icons=true&theme=nord"/> 
 
- ### jaysant15@gmail.com
 
 
 
