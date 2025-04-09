@@ -1,7 +1,7 @@
 #### </ Hello, I'm Jay >
 
 <table>
-  <img src="https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif"  align="right" width="50%">
+  <img src="https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif"  align="right" width="500">
   <tr>
    <td>
   
