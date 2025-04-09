@@ -1,5 +1,11 @@
 #### </ Hello, I'm Jay >
 
+<table>
+  <img src="https://38.media.tumblr.com/a401eaca1220428dc37379cbd7312e16/tumblr_nv44lndz1l1u6xnmoo1_1280.gif"  align="right" width="50%">
+  <tr>
+   <td>
+  
+    
 ```bash
 
 jay@github:~$ whoami
@@ -11,7 +17,12 @@ jay@github:~$ /location
 jay@github:~$ cat flag.txt
 > Playing CTF on HackTheBox, PicoCTF, TryHackMe.
 
- ``` 
+ ```
+
+   </td>
+  </tr>
+</table>
+
 #### </ Technology >
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
