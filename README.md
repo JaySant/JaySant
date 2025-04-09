@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-   <td>
+   <td width="700">
      
 ```bash
 
@@ -37,6 +37,11 @@ jay@github:~$ cat flag.txt
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=E44C30)
 ![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=figma)
 ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+
+#### </ Contact me >
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaiana-s/)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jaysant15@gmail.com)
+
 
 
 
