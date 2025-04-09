@@ -1,31 +1,33 @@
- ## Hi I'm Jay 👋
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
- 
- 
-              
-<img align="right" width="30%" src="https://octodex.github.com/images/spocktocat.png">
+#### </ Hello, I'm Jay >
 
- 
-### Whoami                                                                                 
-- I live in :brazil:
-- CTF Player 😎
-- Web Developer and Cybersecurity Student 💻
+```bash
 
+jay@github:~$ whoami
+> Im a Front-End Developer & Cybersecurity enthusiast
 
+jay@github:~$ /location
+> Living in Brazil
 
-#### My Social Media
-<a href="https://www.linkedin.com/in/jaiana-s/">
-<img align="center" alt="linkedin jay"  width="4%" height="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg"/>
- </a>
-</a>
+jay@github:~$ cat flag.txt
+> Playing CTF on HackTheBox, PicoCTF, TryHackMe.
 
-##
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=JaySant&show_icons=true&theme=nord"/> 
+ ``` 
+#### </ Technology >
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MongoDB](https://img.shields.io/badge/MongoDB-000.svg?style=for-the-badge&logo=mongodb&logoColor=234ea94b)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=07405E)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
+#### </ Tools >
+![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=E44C30)
+![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma&logoColor=figma)
+![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=6DA55F)
 
 
 
