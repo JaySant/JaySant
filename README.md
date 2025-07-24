@@ -39,7 +39,6 @@ jay@github:~$ cat flag.txt
 ![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=6DA55F)
 
 #### </ Contact me >
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaiana-s/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jaysant15@gmail.com)
 
 
